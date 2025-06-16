@@ -2,7 +2,7 @@
 
 A simple ChatGPT-like chatbot built using Streamlit and Gemini 2.0 Flash API (OpenAI-compatible).
 
-![Screenshot](Screenshot 2025-06-16 190011.png)
+![Screenshot](chatbot.png)
 
 ## 🔧 Features
 - Real-time streaming responses
