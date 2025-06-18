@@ -13,4 +13,4 @@ A simple ChatGPT-like chatbot built using Streamlit and Gemini 2.0 Flash API (Op
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/farazahmediu01/chatbot.git
+git clone https://github.com/farazahmediu01/Streamlit_Chatbot.git
